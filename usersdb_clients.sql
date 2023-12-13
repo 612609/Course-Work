@@ -32,16 +32,6 @@ CREATE TABLE `clients` (
   PRIMARY KEY (`idClients`)
 ) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `clients`
---
-
-LOCK TABLES `clients` WRITE;
-/*!40000 ALTER TABLE `clients` DISABLE KEYS */;
-INSERT INTO `clients` VALUES (7,'sfd','hjfkh','dfd','dsfs','42785254'),(9,'fdasаывпыа','adfasdfыва','hfdhыапвы','rwsfgs','4522435234'),(11,'фпавыпва','ыавп','аывныапц','ыпывап','6365645'),(12,'dsaf','afd','adf','daf','542345'),(14,'sdf','dasfasd','fasdf','adsf','3141'),(16,'sadsad','sdaASD','SADAsd','dsfgsfdgdf','431243244'),(19,'dffds','dfasdf','fdsads','fasdf','31242314');
-/*!40000 ALTER TABLE `clients` ENABLE KEYS */;
-UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -52,4 +42,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-12-12 19:10:53
+-- Dump completed on 2023-12-13 14:27:43
